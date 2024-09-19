@@ -1,11 +1,7 @@
 import { orders } from "../data/orders";
 import { Order } from '../types/order-types'; 
-<<<<<<< HEAD
 import { pizzas } from "../data/pizzas";  
 import { orders } from "../data/orders";
-=======
-import { pizzaNames } from './pizza-names'; 
->>>>>>> 22b043c (programme)
 
 
 // 7. Quel est le montant moyen des commandes de pizzas ?
@@ -70,7 +66,6 @@ export const calculateAverageDeliveryCostForTakeAway = (): number => {
 
 
 //recommander des pizzas basées sur l'historique des commandes
-<<<<<<< HEAD
 
 export function recommendPizzasBasedOnOrderHistory(): { [pizza: string]: string[] } {
   const pizzaPairs: { [pizza: string]: Set<string> } = {}; 
@@ -85,27 +80,11 @@ export function recommendPizzasBasedOnOrderHistory(): { [pizza: string]: string[
           pizzasInOrder.forEach((pizza2Id: string) => {
               if (pizza1Id !== pizza2Id) {
                   pizzaPairs[pizza1Id].add(pizza2Id); // Associer les pizzas commandées ensemble
-=======
-export function recommendPizzasBasedOnOrderHistory(): { [pizza: string]: string[] } {
-  const pizzaPairs: { [pizza: string]: Set<string> } = {}; 
-  
-  //analyse des commandes pour trouver des associations entre pizzas commandées ensemble
-  orders.forEach((order) => {
-      const pizzas = order.items.map(item => item.pizzaId); 
-      pizzas.forEach((pizza1: string) => {
-          if (!pizzaPairs[pizza1]) {
-              pizzaPairs[pizza1] = new Set();
-          }
-          pizzas.forEach((pizza2: string) => {
-              if (pizza1 !== pizza2) {
-                  pizzaPairs[pizza1].add(pizza2); //associer les pizzas commandées ensemble
->>>>>>> 22b043c (programme)
               }
           });
       });
   });
 
-<<<<<<< HEAD
   // Convertir les id en noms de pizzas
   const result: { [pizza: string]: string[] } = {};
   Object.keys(pizzaPairs).forEach(pizza1Id => {
@@ -116,12 +95,6 @@ export function recommendPizzasBasedOnOrderHistory(): { [pizza: string]: string[
               return pizza2 ? pizza2.name : "Pizza inconnue";
           });
       }
-=======
-  // Convertir  en tableaux
-  const result: { [pizza: string]: string[] } = {};
-  Object.keys(pizzaPairs).forEach(pizza => {
-      result[pizza] = Array.from(pizzaPairs[pizza]);
->>>>>>> 22b043c (programme)
   });
 
   return result;
