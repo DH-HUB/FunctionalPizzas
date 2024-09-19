@@ -72,3 +72,5 @@ export const findMostOrderedPizza = (): Pizza | undefined => {
 
   return pizzas.find((pizza) => pizza.id === mostOrderedPizzaId);
 };
+
+export { pizzas };
