@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "resolveJsonModule": true, // Active l'import des fichiers JSON
+      "esModuleInterop": true,   // Pour compatibilité des modules
+      "strict": true,            //pour la vérif des types
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "target": "ES6"
+    }
+  }
+  

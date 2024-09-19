@@ -1,0 +1,42 @@
+# Node/Bun Modules
+node_modules/
+bun.lockb
+
+# Logs
+npm-debug.log*
+bun-debug.log*
+
+# Environment Variables
+.env
+.env.local
+
+# Compiled JavaScript files
+dist/
+build/
+out/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Bun cache
+.cache/
+.bun/
+
+# Ignore Bun config lock file
+bunfig.toml.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files (VSCode, JetBrains, etc.)
+.vscode/
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Jest Coverage Reports
+coverage/

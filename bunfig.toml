@@ -1,0 +1,32 @@
+# bunfig.toml
+
+[default]
+# Dossier de sortie pour les fichiers build
+outdir = "dist"
+
+#format de sortie (cjs, esm, iife)
+target = "esm"
+
+#Fichiers d'entrée pour la construction
+entrypoints = ["src/index.ts"]
+
+# Activer ou désactiver la génération de source maps
+sourcemap = true
+
+# Options spécifiques à TypeScript
+tsconfig = "tsconfig.json"
+
+# Activer la minification du code en production
+minify = true
+
+# Générer les types lors du build pour les libs
+generate_types = false
+
+# Commande à exécuter après le build
+# postbuild = "echo 'Build terminé!'"
+
+# Définitions des alias de modules (optionnel)
+[default.alias]
+# Exemple : remapper un module (utile pour éviter les chemins relatifs trop longs)
+# "@utils/*" = "./src/utils/*"
+

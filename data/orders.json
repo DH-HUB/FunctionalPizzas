@@ -1,0 +1,2046 @@
+[
+    {
+        "id": "1b50f90d-cd69-4db8-8563-fa7e06cb87db",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:51:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 14,
+        "totalAmount": 23,
+        "items": [
+            {
+                "pizzaId": "d088b172-ec12-44c9-8ca2-1d7096204316",
+                "quantity": 2,
+                "price": 7,
+                "amount": 14
+            }
+        ],
+        "deliveryCosts": 9
+    },
+    {
+        "id": "c0b171c5-a367-40ee-9aaa-ff8fde58d3c0",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:54:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 46,
+        "totalAmount": 51,
+        "items": [
+            {
+                "pizzaId": "6e7c919d-ee62-4ecc-9d24-0a4663732d1f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            },
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ],
+        "deliveryCosts": 5
+    },
+    {
+        "id": "244ffb8c-f70a-4fcf-99da-3e6cbeda8790",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:54:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 34,
+        "totalAmount": 42,
+        "items": [
+            {
+                "pizzaId": "e1a97d34-c6b2-4a13-ac40-f79d75ee9758",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            },
+            {
+                "pizzaId": "737848d2-12c4-43c9-bd2a-0aa78a30bb6d",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            }
+        ],
+        "deliveryCosts": 8
+    },
+    {
+        "id": "98476f2a-ae52-4b04-827f-e1f6279e0416",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:54:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 44,
+        "totalAmount": 44,
+        "items": [
+            {
+                "pizzaId": "737848d2-12c4-43c9-bd2a-0aa78a30bb6d",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            },
+            {
+                "pizzaId": "e1a97d34-c6b2-4a13-ac40-f79d75ee9758",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "38aba150-2e2e-4093-a96a-e301de273b9a",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:43:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 11,
+        "totalAmount": 11,
+        "items": [
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 1,
+                "price": 11,
+                "amount": 11
+            }
+        ]
+    },
+    {
+        "id": "8f59fdd5-a17e-4f76-ac6b-3c6513ef5800",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:54:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 36,
+        "totalAmount": 36,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            },
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "3b43053e-9622-4936-9a3b-f3220d810461",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:47:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 21,
+        "totalAmount": 21,
+        "items": [
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 1,
+                "price": 9,
+                "amount": 9
+            },
+            {
+                "pizzaId": "e1a97d34-c6b2-4a13-ac40-f79d75ee9758",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "a25df048-aa12-412c-8e47-42c90bcc49c7",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:47:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 36,
+        "totalAmount": 36,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            },
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "80b1dbea-45f6-4692-ae2f-d7916bf591d3",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 18,
+        "totalAmount": 18,
+        "items": [
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 2,
+                "price": 9,
+                "amount": 18
+            }
+        ]
+    },
+    {
+        "id": "191d77be-8b26-47ab-b9a4-58aa262fc609",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:44:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 35,
+        "totalAmount": 42,
+        "items": [
+            {
+                "pizzaId": "e1a97d34-c6b2-4a13-ac40-f79d75ee9758",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            },
+            {
+                "pizzaId": "6e7c919d-ee62-4ecc-9d24-0a4663732d1f",
+                "quantity": 1,
+                "price": 11,
+                "amount": 11
+            }
+        ],
+        "deliveryCosts": 7
+    },
+    {
+        "id": "94a199cd-2685-4128-8003-4827fe8f98d9",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:55:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 36,
+        "totalAmount": 36,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 2,
+                "price": 6,
+                "amount": 12
+            },
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "84eb3c5e-4373-4bb2-a09b-c3d506da2649",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 10,
+        "totalAmount": 15,
+        "items": [
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            }
+        ],
+        "deliveryCosts": 5
+    },
+    {
+        "id": "d7dee4d9-ab24-4f0f-b61d-c514c1e7b31c",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:49:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 28,
+        "totalAmount": 37,
+        "items": [
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 2,
+                "price": 9,
+                "amount": 18
+            },
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            }
+        ],
+        "deliveryCosts": 9
+    },
+    {
+        "id": "e66ab87f-2d96-4a90-a516-e42e0c15a0bb",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:54:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 32,
+        "totalAmount": 32,
+        "items": [
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            },
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "7ccd9710-08ad-485b-b8a5-03de66b858f8",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:46:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 12,
+        "totalAmount": 12,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 1,
+                "price": 6,
+                "amount": 6
+            },
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 1,
+                "price": 6,
+                "amount": 6
+            }
+        ]
+    },
+    {
+        "id": "6e89185c-4862-4e29-972f-3ac84865d0dd",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:42:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 20,
+        "totalAmount": 20,
+        "items": [
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": "6f607835-779c-40b0-9573-b72ee7c083b3",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:43:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 18,
+        "totalAmount": 18,
+        "items": [
+            {
+                "pizzaId": "6e7c919d-ee62-4ecc-9d24-0a4663732d1f",
+                "quantity": 1,
+                "price": 11,
+                "amount": 11
+            },
+            {
+                "pizzaId": "d088b172-ec12-44c9-8ca2-1d7096204316",
+                "quantity": 1,
+                "price": 7,
+                "amount": 7
+            }
+        ]
+    },
+    {
+        "id": "0f7beb33-2259-4be3-9807-eb1e3d00e64d",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:47:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 28,
+        "totalAmount": 28,
+        "items": [
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            },
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 2,
+                "price": 9,
+                "amount": 18
+            }
+        ]
+    },
+    {
+        "id": "f4963612-9fa4-44b7-be92-23d430ea488e",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:45:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 20,
+        "totalAmount": 20,
+        "items": [
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": "06f261e1-e93b-474a-903e-0855ad4daf7e",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:52:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 24,
+        "totalAmount": 24,
+        "items": [
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "b1beb8f6-7c82-40a7-9e6b-1988be1750c4",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:48:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 28,
+        "totalAmount": 35,
+        "items": [
+            {
+                "pizzaId": "6e7c919d-ee62-4ecc-9d24-0a4663732d1f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            },
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 1,
+                "price": 6,
+                "amount": 6
+            }
+        ],
+        "deliveryCosts": 7
+    },
+    {
+        "id": "47ff5309-ec8f-4da4-83a7-3d322cd9197b",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:43:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 18,
+        "totalAmount": 18,
+        "items": [
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 2,
+                "price": 9,
+                "amount": 18
+            }
+        ]
+    },
+    {
+        "id": "260ee7f8-8e32-4c69-9fff-8503adba8996",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:53:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 20,
+        "totalAmount": 26,
+        "items": [
+            {
+                "pizzaId": "737848d2-12c4-43c9-bd2a-0aa78a30bb6d",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            }
+        ],
+        "deliveryCosts": 6
+    },
+    {
+        "id": "63a9efb2-43c0-4fd6-9db4-5a5b30f487d7",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:46:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 31,
+        "totalAmount": 39,
+        "items": [
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            },
+            {
+                "pizzaId": "6e7c919d-ee62-4ecc-9d24-0a4663732d1f",
+                "quantity": 1,
+                "price": 11,
+                "amount": 11
+            }
+        ],
+        "deliveryCosts": 8
+    },
+    {
+        "id": "9fefef3f-1be2-4169-881b-3791af6ca5ce",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 10,
+        "totalAmount": 10,
+        "items": [
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": "f1af16e7-80e0-4df7-a356-7a69571541c7",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:43:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 21,
+        "totalAmount": 21,
+        "items": [
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 1,
+                "price": 11,
+                "amount": 11
+            },
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": "0949f4e7-8056-435d-ac92-0dbc79828d28",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 36,
+        "totalAmount": 36,
+        "items": [
+            {
+                "pizzaId": "d088b172-ec12-44c9-8ca2-1d7096204316",
+                "quantity": 2,
+                "price": 7,
+                "amount": 14
+            },
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            }
+        ]
+    },
+    {
+        "id": "5c6711c5-3119-4652-8c5b-cf79695b625a",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:47:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 10,
+        "totalAmount": 10,
+        "items": [
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": "9fcbabf5-93e3-4bc8-9b35-70e865852a66",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:49:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 19,
+        "totalAmount": 19,
+        "items": [
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 1,
+                "price": 9,
+                "amount": 9
+            },
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": "d2ad4cbb-5e56-4c4a-bfb7-16944246c289",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:54:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 34,
+        "totalAmount": 34,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            },
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            }
+        ]
+    },
+    {
+        "id": "c65aa769-2e86-41cd-96fc-549775b93e25",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:46:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 25,
+        "totalAmount": 31,
+        "items": [
+            {
+                "pizzaId": "d088b172-ec12-44c9-8ca2-1d7096204316",
+                "quantity": 2,
+                "price": 7,
+                "amount": 14
+            },
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 1,
+                "price": 11,
+                "amount": 11
+            }
+        ],
+        "deliveryCosts": 6
+    },
+    {
+        "id": "cbe9882f-573f-4c89-a46a-13a295365b91",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:48:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 27,
+        "totalAmount": 27,
+        "items": [
+            {
+                "pizzaId": "d088b172-ec12-44c9-8ca2-1d7096204316",
+                "quantity": 1,
+                "price": 7,
+                "amount": 7
+            },
+            {
+                "pizzaId": "737848d2-12c4-43c9-bd2a-0aa78a30bb6d",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": "c1933bf2-2483-4371-9f80-91764005258d",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:51:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 12,
+        "totalAmount": 12,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "e5b0d46f-dbe8-4ab0-824f-2b2d6783dfdc",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:46:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 32,
+        "totalAmount": 32,
+        "items": [
+            {
+                "pizzaId": "c6292ffb-93f4-4376-9c16-3838b0ea4305",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            },
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": "4557416a-c517-4c37-a609-c9613f2cf1e6",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:52:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 20,
+        "totalAmount": 20,
+        "items": [
+            {
+                "pizzaId": "737848d2-12c4-43c9-bd2a-0aa78a30bb6d",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": "1a8b03d1-b56e-4f60-8581-7f8ca869a32e",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:53:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 22,
+        "totalAmount": 22,
+        "items": [
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            }
+        ]
+    },
+    {
+        "id": "2e1e480b-34ed-4d44-aca7-87436a4d264f",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 12,
+        "totalAmount": 12,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 2,
+                "price": 6,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "e54e4d4e-a003-47c9-b027-c3f5ef64f3af",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:51:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 35,
+        "totalAmount": 35,
+        "items": [
+            {
+                "pizzaId": "c6292ffb-93f4-4376-9c16-3838b0ea4305",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            },
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 1,
+                "price": 11,
+                "amount": 11
+            }
+        ]
+    },
+    {
+        "id": "1f72937b-518c-4d23-902e-12c7efa1b7ae",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:45:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 36,
+        "totalAmount": 36,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 2,
+                "price": 6,
+                "amount": 12
+            },
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "c5b34eed-739a-4d2e-bb15-55da39a98391",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:51:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 24,
+        "totalAmount": 24,
+        "items": [
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "5ac9c517-6183-4542-938b-644b7a58851e",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:49:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 18,
+        "totalAmount": 18,
+        "items": [
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 2,
+                "price": 9,
+                "amount": 18
+            }
+        ]
+    },
+    {
+        "id": "b4ccc385-7e2a-4f7d-9611-3a87029a15b1",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:46:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 24,
+        "totalAmount": 24,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            },
+            {
+                "pizzaId": "c6292ffb-93f4-4376-9c16-3838b0ea4305",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "261c668d-151f-4658-82bb-16d7e5b1b62a",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:43:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 10,
+        "totalAmount": 10,
+        "items": [
+            {
+                "pizzaId": "737848d2-12c4-43c9-bd2a-0aa78a30bb6d",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": "d8563c71-05af-4f2f-b5d4-bfd787e4bc3c",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:44:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 6,
+        "totalAmount": 6,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 1,
+                "price": 6,
+                "amount": 6
+            }
+        ]
+    },
+    {
+        "id": "cbc490c4-34ee-424a-b4f4-9d8f8933716a",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:52:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 34,
+        "totalAmount": 34,
+        "items": [
+            {
+                "pizzaId": "737848d2-12c4-43c9-bd2a-0aa78a30bb6d",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            },
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "6306ec3b-f10d-4575-8f93-5b738854ec4b",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:52:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 9,
+        "totalAmount": 9,
+        "items": [
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 1,
+                "price": 9,
+                "amount": 9
+            }
+        ]
+    },
+    {
+        "id": "8ccb6983-2d7c-4eab-a364-9e30f3b3c94b",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:43:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 27,
+        "totalAmount": 27,
+        "items": [
+            {
+                "pizzaId": "737848d2-12c4-43c9-bd2a-0aa78a30bb6d",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            },
+            {
+                "pizzaId": "d088b172-ec12-44c9-8ca2-1d7096204316",
+                "quantity": 1,
+                "price": 7,
+                "amount": 7
+            }
+        ]
+    },
+    {
+        "id": "ece20a30-87ee-48d1-ac24-cb941e03b299",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:44:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 24,
+        "totalAmount": 24,
+        "items": [
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            },
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 2,
+                "price": 6,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "de7c5f1a-cb41-4116-a46c-1e0e2c2b1831",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 12,
+        "totalAmount": 18,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ],
+        "deliveryCosts": 6
+    },
+    {
+        "id": "ac72e997-8c51-4040-bc7f-43edf9d86718",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:45:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 24,
+        "totalAmount": 29,
+        "items": [
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ],
+        "deliveryCosts": 5
+    },
+    {
+        "id": "1e239817-fb88-46c3-83a9-b9480cb3fe40",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:51:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 10,
+        "totalAmount": 10,
+        "items": [
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": "f827e00d-3a4c-4ad9-904b-d9c30a97925f",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:55:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 18,
+        "totalAmount": 18,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 1,
+                "price": 6,
+                "amount": 6
+            },
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 2,
+                "price": 6,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "3c93bffc-de67-49a0-a825-eb1039192177",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:55:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 21,
+        "totalAmount": 28,
+        "items": [
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 1,
+                "price": 9,
+                "amount": 9
+            },
+            {
+                "pizzaId": "c6292ffb-93f4-4376-9c16-3838b0ea4305",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ],
+        "deliveryCosts": 7
+    },
+    {
+        "id": "d9252455-9baf-4ec1-88e7-54eb5120cb84",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:46:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 21,
+        "totalAmount": 29,
+        "items": [
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 1,
+                "price": 9,
+                "amount": 9
+            },
+            {
+                "pizzaId": "c6292ffb-93f4-4376-9c16-3838b0ea4305",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ],
+        "deliveryCosts": 8
+    },
+    {
+        "id": "bf7739f1-3857-4e3c-8f67-ad6e6aa8e537",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:42:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 22,
+        "totalAmount": 29,
+        "items": [
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            }
+        ],
+        "deliveryCosts": 7
+    },
+    {
+        "id": "0f957166-b031-4771-a408-ba9f55d00641",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:52:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 48,
+        "totalAmount": 48,
+        "items": [
+            {
+                "pizzaId": "e1a97d34-c6b2-4a13-ac40-f79d75ee9758",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            },
+            {
+                "pizzaId": "e1a97d34-c6b2-4a13-ac40-f79d75ee9758",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "41ed0b46-9ca8-4438-85c3-8ede4f87f771",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:52:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 22,
+        "totalAmount": 22,
+        "items": [
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            }
+        ]
+    },
+    {
+        "id": "9a214452-e86d-4d98-a420-c89019e9601c",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:48:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 6,
+        "totalAmount": 11,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 1,
+                "price": 6,
+                "amount": 6
+            }
+        ],
+        "deliveryCosts": 5
+    },
+    {
+        "id": "2ba4c551-d9cb-40c0-967f-9dfff12a27cf",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:54:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 21,
+        "totalAmount": 21,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 2,
+                "price": 6,
+                "amount": 12
+            },
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 1,
+                "price": 9,
+                "amount": 9
+            }
+        ]
+    },
+    {
+        "id": "3f15b1ed-c39c-4c34-b860-a8415976ede3",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:48:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 40,
+        "totalAmount": 40,
+        "items": [
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            },
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": "a62e642e-606e-4997-afab-e49d8af7ddcd",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 38,
+        "totalAmount": 38,
+        "items": [
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            },
+            {
+                "pizzaId": "d088b172-ec12-44c9-8ca2-1d7096204316",
+                "quantity": 2,
+                "price": 7,
+                "amount": 14
+            }
+        ]
+    },
+    {
+        "id": "f6726fa9-6a6b-4965-aa04-f30ffb0db753",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:45:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 6,
+        "totalAmount": 6,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 1,
+                "price": 6,
+                "amount": 6
+            }
+        ]
+    },
+    {
+        "id": "134540fa-fd86-4ed9-aecd-f5051e026b92",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:45:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 34,
+        "totalAmount": 41,
+        "items": [
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            },
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            }
+        ],
+        "deliveryCosts": 7
+    },
+    {
+        "id": "2487759e-7bd3-4e2f-8545-82e481dddf9c",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:48:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 12,
+        "totalAmount": 12,
+        "items": [
+            {
+                "pizzaId": "c6292ffb-93f4-4376-9c16-3838b0ea4305",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "73721cbf-2d79-4fce-a857-652ff273af8c",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:46:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 24,
+        "totalAmount": 24,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "91c49675-0c79-4582-a417-7ffa68556d9a",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:43:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 22,
+        "totalAmount": 22,
+        "items": [
+            {
+                "pizzaId": "6e7c919d-ee62-4ecc-9d24-0a4663732d1f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            }
+        ]
+    },
+    {
+        "id": "c1a2668a-4cc6-4a29-b050-2d8b49dcba90",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:55:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 6,
+        "totalAmount": 14,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 1,
+                "price": 6,
+                "amount": 6
+            }
+        ],
+        "deliveryCosts": 8
+    },
+    {
+        "id": "49378af8-9a71-434d-ba54-56803130717d",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:52:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 46,
+        "totalAmount": 46,
+        "items": [
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            },
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            }
+        ]
+    },
+    {
+        "id": "06bb1f47-ad31-4b15-b019-9acec550de30",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:46:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 38,
+        "totalAmount": 44,
+        "items": [
+            {
+                "pizzaId": "c6292ffb-93f4-4376-9c16-3838b0ea4305",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            },
+            {
+                "pizzaId": "d088b172-ec12-44c9-8ca2-1d7096204316",
+                "quantity": 2,
+                "price": 7,
+                "amount": 14
+            }
+        ],
+        "deliveryCosts": 6
+    },
+    {
+        "id": "8605a628-2856-42b6-9b31-b3d068e3a347",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:52:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 34,
+        "totalAmount": 34,
+        "items": [
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            },
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 2,
+                "price": 6,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "aaace95e-e439-4cd4-ad9f-19e10ca4c4b2",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:44:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 33,
+        "totalAmount": 41,
+        "items": [
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            },
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 1,
+                "price": 9,
+                "amount": 9
+            }
+        ],
+        "deliveryCosts": 8
+    },
+    {
+        "id": "579d74b4-dee5-4bc8-9538-e670ae13ea63",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 40,
+        "totalAmount": 47,
+        "items": [
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            },
+            {
+                "pizzaId": "737848d2-12c4-43c9-bd2a-0aa78a30bb6d",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            }
+        ],
+        "deliveryCosts": 7
+    },
+    {
+        "id": "52f32006-37fb-4c13-bac9-c317fc17e5a3",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:51:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 32,
+        "totalAmount": 41,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            },
+            {
+                "pizzaId": "737848d2-12c4-43c9-bd2a-0aa78a30bb6d",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            }
+        ],
+        "deliveryCosts": 9
+    },
+    {
+        "id": "b914fa4f-4048-4c45-af14-577f04d18800",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:42:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 31,
+        "totalAmount": 40,
+        "items": [
+            {
+                "pizzaId": "6e7c919d-ee62-4ecc-9d24-0a4663732d1f",
+                "quantity": 1,
+                "price": 11,
+                "amount": 11
+            },
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            }
+        ],
+        "deliveryCosts": 9
+    },
+    {
+        "id": "0ff4c780-2be4-44a2-bbf0-75cc879b704a",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 22,
+        "totalAmount": 22,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            },
+            {
+                "pizzaId": "e9f2f06b-030a-4526-bc26-652fe1bf446b",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": "0c607d79-e5f2-4e0b-9791-6ecf7f191399",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:52:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 24,
+        "totalAmount": 33,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ],
+        "deliveryCosts": 9
+    },
+    {
+        "id": "11eedb28-c280-4162-81c7-9037b39d44d3",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:43:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 22,
+        "totalAmount": 29,
+        "items": [
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            }
+        ],
+        "deliveryCosts": 7
+    },
+    {
+        "id": "79c4e385-1b60-4469-9129-f1b65674aff7",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:46:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 12,
+        "totalAmount": 12,
+        "items": [
+            {
+                "pizzaId": "e1a97d34-c6b2-4a13-ac40-f79d75ee9758",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "d946b5ad-ea4d-4901-90f2-5d9313f3668e",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:55:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 36,
+        "totalAmount": 36,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            },
+            {
+                "pizzaId": "e1a97d34-c6b2-4a13-ac40-f79d75ee9758",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "6b995d64-2803-4d67-9b80-7ce3002f8c9f",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 16,
+        "totalAmount": 16,
+        "items": [
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 1,
+                "price": 9,
+                "amount": 9
+            },
+            {
+                "pizzaId": "d088b172-ec12-44c9-8ca2-1d7096204316",
+                "quantity": 1,
+                "price": 7,
+                "amount": 7
+            }
+        ]
+    },
+    {
+        "id": "e76d01dc-1ed1-4ce8-942a-451758c3957b",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 24,
+        "totalAmount": 24,
+        "items": [
+            {
+                "pizzaId": "e1a97d34-c6b2-4a13-ac40-f79d75ee9758",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "67bb9a61-0ad1-4782-9ac2-82238321c990",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:46:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 21,
+        "totalAmount": 21,
+        "items": [
+            {
+                "pizzaId": "737848d2-12c4-43c9-bd2a-0aa78a30bb6d",
+                "quantity": 1,
+                "price": 10,
+                "amount": 10
+            },
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 1,
+                "price": 11,
+                "amount": 11
+            }
+        ]
+    },
+    {
+        "id": "2780a142-9856-4d6b-b0f7-95cd660e593c",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:54:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 12,
+        "totalAmount": 21,
+        "items": [
+            {
+                "pizzaId": "e1a97d34-c6b2-4a13-ac40-f79d75ee9758",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ],
+        "deliveryCosts": 9
+    },
+    {
+        "id": "11ba3728-20c7-4e6a-99e9-c26a34d68271",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:43:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 34,
+        "totalAmount": 34,
+        "items": [
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            },
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "47c04352-df33-4eac-9d50-552685dc3012",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 12,
+        "totalAmount": 17,
+        "items": [
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ],
+        "deliveryCosts": 5
+    },
+    {
+        "id": "2ea0aa8d-0084-4e61-a9b7-7f6f4a63ccde",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:52:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 14,
+        "totalAmount": 14,
+        "items": [
+            {
+                "pizzaId": "d088b172-ec12-44c9-8ca2-1d7096204316",
+                "quantity": 2,
+                "price": 7,
+                "amount": 14
+            }
+        ]
+    },
+    {
+        "id": "80cc1d79-1a32-4d74-b128-6657dbd9280b",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:47:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 9,
+        "totalAmount": 9,
+        "items": [
+            {
+                "pizzaId": "f206b9c1-fd70-49ef-b688-e24fe88d2665",
+                "quantity": 1,
+                "price": 9,
+                "amount": 9
+            }
+        ]
+    },
+    {
+        "id": "066308eb-873f-4de9-9fb7-d6cd1a1fddcf",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:55:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 46,
+        "totalAmount": 52,
+        "items": [
+            {
+                "pizzaId": "6e7c919d-ee62-4ecc-9d24-0a4663732d1f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            },
+            {
+                "pizzaId": "e1a97d34-c6b2-4a13-ac40-f79d75ee9758",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ],
+        "deliveryCosts": 6
+    },
+    {
+        "id": "e4d83b23-ab7f-4aaa-8527-43efcb73b214",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:44:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 12,
+        "totalAmount": 12,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "27c5febb-13dd-4002-9055-13211d68d578",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:51:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 12,
+        "totalAmount": 12,
+        "items": [
+            {
+                "pizzaId": "e1a97d34-c6b2-4a13-ac40-f79d75ee9758",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "1c6361f4-126e-4990-b090-6a2f7f24d229",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:52:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 11,
+        "totalAmount": 18,
+        "items": [
+            {
+                "pizzaId": "c28d49c2-f3b6-466c-95e3-c4da010d517f",
+                "quantity": 1,
+                "price": 11,
+                "amount": 11
+            }
+        ],
+        "deliveryCosts": 7
+    },
+    {
+        "id": "6b39d98e-8d88-4b3a-9bd9-81eba3c266ca",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:54:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 24,
+        "totalAmount": 24,
+        "items": [
+            {
+                "pizzaId": "1fa92403-d4e0-401a-9a6a-b5450b5cecf2",
+                "quantity": 2,
+                "price": 12,
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "c0361768-5025-4678-8e30-8f72669f8df6",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:53:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 22,
+        "totalAmount": 22,
+        "items": [
+            {
+                "pizzaId": "6e7c919d-ee62-4ecc-9d24-0a4663732d1f",
+                "quantity": 2,
+                "price": 11,
+                "amount": 22
+            }
+        ]
+    },
+    {
+        "id": "88497c42-808e-47da-b749-ec34906cf776",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 7,
+        "totalAmount": 15,
+        "items": [
+            {
+                "pizzaId": "d088b172-ec12-44c9-8ca2-1d7096204316",
+                "quantity": 1,
+                "price": 7,
+                "amount": 7
+            }
+        ],
+        "deliveryCosts": 8
+    },
+    {
+        "id": "3f26ccd0-0547-467b-bbd4-e463ba95763a",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:55:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 24,
+        "totalAmount": 33,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 2,
+                "price": 6,
+                "amount": 12
+            },
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ],
+        "deliveryCosts": 9
+    },
+    {
+        "id": "a2c72f79-614d-4fcf-8a96-4a5abfdc916b",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:49:00",
+        "orderType": "Delivery",
+        "status": "Completed",
+        "amount": 11,
+        "totalAmount": 17,
+        "items": [
+            {
+                "pizzaId": "6e7c919d-ee62-4ecc-9d24-0a4663732d1f",
+                "quantity": 1,
+                "price": 11,
+                "amount": 11
+            }
+        ],
+        "deliveryCosts": 6
+    },
+    {
+        "id": "e683959f-7e54-44e2-9090-8df4ca19a38e",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:50:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 20,
+        "totalAmount": 20,
+        "items": [
+            {
+                "pizzaId": "737848d2-12c4-43c9-bd2a-0aa78a30bb6d",
+                "quantity": 2,
+                "price": 10,
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": "ef9670bd-185f-4da2-ac91-3b2f471c5417",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:48:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 23,
+        "totalAmount": 23,
+        "items": [
+            {
+                "pizzaId": "6e7c919d-ee62-4ecc-9d24-0a4663732d1f",
+                "quantity": 1,
+                "price": 11,
+                "amount": 11
+            },
+            {
+                "pizzaId": "b16d234d-dc7b-4610-bbe2-f4fd250869dd",
+                "quantity": 1,
+                "price": 12,
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "71323cc8-2558-4bb3-a608-ac2a1202da43",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:52:00",
+        "orderType": "For Here",
+        "status": "Completed",
+        "amount": 13,
+        "totalAmount": 13,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 1,
+                "price": 6,
+                "amount": 6
+            },
+            {
+                "pizzaId": "d088b172-ec12-44c9-8ca2-1d7096204316",
+                "quantity": 1,
+                "price": 7,
+                "amount": 7
+            }
+        ]
+    },
+    {
+        "id": "e046a5ce-2ba7-46cb-8a40-96294c99a4d6",
+        "orderedAt": "2024-09-15 20:40:00",
+        "readyAt": "2024-09-15 20:53:00",
+        "orderType": "Take Away",
+        "status": "Completed",
+        "amount": 6,
+        "totalAmount": 6,
+        "items": [
+            {
+                "pizzaId": "ee1fe876-ec6d-4dc1-8902-c1f80a76f2d6",
+                "quantity": 1,
+                "price": 6,
+                "amount": 6
+            }
+        ]
+    }
+]

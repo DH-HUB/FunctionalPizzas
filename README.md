@@ -1,4 +1,4 @@
-# FunctionalPizzas
+# FunctionalPizzas 
 
 Ce projet est une application de gestion de pizzeria implémentée en **TypeScript** et basée sur la **programmation fonctionnelle**. Le but est de simplifier la gestion des commandes et la préparation des pizzas pour un établissement pendant des périodes de forte affluence. Voici les concept appliqués:
 
@@ -64,7 +64,7 @@ Nettoyer le projet : bun run clean
 
 'bun run start'
 **Exemple de sortie :**
-
+![alt text](image-7.png)
 ![alt text](image-1.png)
 
 **Lancer les tests:**
