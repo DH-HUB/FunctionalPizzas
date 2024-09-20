@@ -71,6 +71,7 @@ Nettoyer le projet : bun run clean
 'bun run test'
 **Exemple de sortie :**
 ![alt text](image-2.png)
+![alt text](image-10.png)
 
 
 **Évolution du projet : Gestion asynchrone de la production**
