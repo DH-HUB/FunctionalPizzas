@@ -20,6 +20,7 @@ import {
   recommendPizzasBasedOnOrderHistory 
 } from "./services/order-service";
 
+import { simulateProduction } from './services/production-service';
 // Fonction pour obtenir les résultats sous forme de chaîne de caractères
 export const getResultsAsString = (): string => {
   let result = "=== Gestion de la Pizzeria ===\n";
@@ -65,8 +66,13 @@ const display = (formattedResults: string[]): void => {
 // Pipeline 
 const main = () => {
   const rawResults = getResultsAsString(); //récupère la chaîne des résultats
-  const formattedResults = processResults(rawResults); //transfore
+  const formattedResults = processResults(rawResults); //transforme
   display(formattedResults); 
 };
+
+//simuler la commande de pizzas
+const pizzasInOrder = ['pizza1', 'pizza2', 'pizza3', 'pizza4'];
+simulateProduction(pizzasInOrder);
+
 
 main();
