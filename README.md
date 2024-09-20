@@ -73,15 +73,15 @@ Nettoyer le projet : bun run clean
 ![alt text](image-2.png)
 
 
-**Évolution du Projet : Gestion Asynchrone de la Production**
+**Évolution du projet : Gestion asynchrone de la production**
 Dans cette extension du projet, Je vais implémenté une gestion complète du flux de production des pizzas. Le pizzaiolo Daniele peut cuire jusqu'à 3 pizzas simultanément, et la durée de chaque étape préparation et cuisson est simulée de manière asynchrone.
 
-**Fonctionnalités Avancées**
-**Préparation Asynchrone des Pizzas :**
+**Fonctionnalités avancées**
+**Préparation asynchrone des Pizzas :**
 
 La préparation d'une pizza prend environ 1 minute.
 La cuisson d'une pizza prend environ 5 minutes, mais cette durée est simulée avec un facteur de 1/10 pour accélérer les tests.
-**Statut des Pizzas en Temps Réel :**
+**Statut des pizzas en temps réel :**
 
 Chaque pizza passe par plusieurs états successifs :
 En attente de préparation.
@@ -90,13 +90,13 @@ En attente de cuisson.
 Cuisson en cours.
 Prête.
 Le système met à jour le statut des pizzas en First in/First out (FIFO).
-**Estimation du Temps de Production :**
+**Estimation du temps de production :**
 
 Une méthode permet d'estimer la durée totale de préparation d'une commande, en tenant compte de la capacité du four (3 pizzas à la fois) et du temps de cuisson.
 Exemple de Sortie de Simulateur de Production
 
 
-**Gestion des États sans Mutation**
+**Gestion des états sans Mutation**
 Immutabilité : Le suivi des états des pizzas respecte les principes de la programmation fonctionnelle. Chaque changement d'état génère une nouvelle structure sans muter l'état existant.
 Flux de Production FiFo : L'ordre de traitement des pizzas est géré en First In, First Out, assurant une gestion optimale de la file d'attente.
 Types et Fonctions Implémentées
